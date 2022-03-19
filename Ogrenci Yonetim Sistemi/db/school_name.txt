@@ -1,0 +1,1 @@
+Veriler bu dizinde, okul ismine göre toplanır.

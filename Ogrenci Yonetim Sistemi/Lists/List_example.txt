@@ -1,0 +1,1 @@
+Kaydettiğiniz listeler bu dizinde toplanır. Dosyalar isimlerini anlık zamandan alır.
